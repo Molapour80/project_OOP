@@ -20,7 +20,7 @@ The application is structured around several key classes:
   - `description`: A brief description of the task.
   - `time_spent`: Time spent on the task (in hours).
 
-## Prerequisites
+## :ok_hand: Prerequisites
 Before running the application, ensure that you have Python installed on your system.
 
 ## :footprints: How to Use
