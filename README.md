@@ -3,12 +3,12 @@
 
 This project is a Python-based time tracker for managing tasks and projects using object-oriented programming (OOP). It allows users to create and manage projects, add tasks to those projects, and track the time spent on each task.
 
-## Features
+## :black_cat: Features
 - **Project Management**: Create and manage multiple projects, each with a unique name.
 - **Task Management**: Add tasks to projects, each with a unique identifier (ID) within the project.
 - **Time Tracking**: Track the time spent on individual tasks, enabling better time management and productivity analysis.
 
-## Class Structure
+##  :sunglasses: Class Structure
 The application is structured around several key classes:
 
 - **Project**: Represents a project and contains attributes such as:
@@ -23,7 +23,7 @@ The application is structured around several key classes:
 ## Prerequisites
 Before running the application, ensure that you have Python installed on your system.
 
-## How to Use
+## :footprints: How to Use
 1. Clone the repository or download the code files.
 2. Save the code in a Python file (e.g., `time_tracker.py`).
 3. Run the program using the following command:
