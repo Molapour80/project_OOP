@@ -1,6 +1,6 @@
 
-# :feet:
-:paw_prints: Time Tracker Application
+# :paw_prints: Time Tracker Application
+
 This project is a Python-based time tracker for managing tasks and projects using object-oriented programming (OOP). It allows users to create and manage projects, add tasks to those projects, and track the time spent on each task.
 
 ## Features
