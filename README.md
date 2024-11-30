@@ -25,8 +25,8 @@ Before running the application, ensure that you have Python installed on your sy
 
 ## :footprints: How to Use
 1. Clone the repository or download the code files.
-2. Save the code in a Python file (e.g., `time_tracker.py`).
+2. Save the code in a Python file (e.g., `main.py`).
 3. Run the program using the following command:
 
    ```bash
-   python time_tracker.py
+   python main.py
